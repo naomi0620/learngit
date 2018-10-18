@@ -8,5 +8,5 @@ My stupid boss still prefers SVN.
 new branch is quick
 Creating a new branch is quick and simple
 add newmerge
-dev 1
+dev 2
 
