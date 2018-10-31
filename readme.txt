@@ -6,3 +6,5 @@ second line
 third
 
 on feature branch
+
+new item
