@@ -1,3 +1,4 @@
+
 console
 aaa
 gpl
@@ -12,4 +13,4 @@ dev 2
 i mean this
 okay
 
-today is a bad day
+today is not bad  and not good
